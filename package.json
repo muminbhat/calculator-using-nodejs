@@ -1,0 +1,27 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator made using html css and javascript as front-end and node.js at backend",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muminbhat/calculator-using-nodejs.git"
+  },
+  "keywords": [
+    "calculator",
+    "calculator",
+    "using",
+    "nodejs",
+    "nodejs",
+    "calculator"
+  ],
+  "author": "Mumin Bhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muminbhat/calculator-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/muminbhat/calculator-using-nodejs#readme"
+}
